@@ -1,0 +1,7 @@
+install.packages('tidyverse')
+install.packages('ggplot2')
+install.pacakges('rmarkdown')
+install.packages('shiny')
+install.packages('reticulate')
+install.packages('devtools')
+install.pacakges('keras')
