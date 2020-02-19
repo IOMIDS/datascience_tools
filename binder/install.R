@@ -1,7 +1,1 @@
-install.packages('tidyverse')
-install.packages('ggplot2')
-install.packages('rmarkdown')
-install.packages('shiny')
-install.packages('reticulate')
-install.packages('devtools')
-install.pacakges('keras')
+install.packages(c('tidyverse', 'stringr', 'pROC', 'randomForest', 'xgboost', 'ggplot2', 'wordcloud', 'readr', 'e1071', 'caret', 'partykit', 'rmarkdown'))
